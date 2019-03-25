@@ -5,7 +5,7 @@ import Form from './Form';
 const HomeDumb = () => {
     return(
         <Container>
-            <Form handlerFromParant={this.props.handlerFromParant}/>
+            <Form /*handlerFromParant={this.props.handlerFromParant}*//>
         </Container>
     )
 }
